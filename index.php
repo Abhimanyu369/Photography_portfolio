@@ -10,9 +10,9 @@
                 $img_url_thumb_small = str_replace(' ', '-', "./files/thumb_small/thumb_small_".$db_row['img_url']); 
                 
         ?>
-        <a class="img-a" href="<?php echo $img_url; ?>" >
-            <img src="<?php echo $img_url_thumb_small; ?>">
-        </a>
+                <a class="img-a" href="<?php echo $img_url; ?>" >
+                    <img src="<?php echo $img_url_thumb_small; ?>">
+                </a>
         <?php
             }
         ?>

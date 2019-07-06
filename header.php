@@ -21,12 +21,10 @@
    <nav>
       <div class="nav">
           <div class="nav-social">
-<!--
-              <a href="#">
+              <a href="https://www.facebook.com/uddhava108/" target="_blank">
                   <i class="fab fa-facebook"></i>
               </a>
--->
-              <a href="#">
+              <a href="https://www.instagram.com/iskcon_monk/" target="_blank">
                   <i class="fab fa-instagram"></i>
               </a>
           </div>

@@ -35,6 +35,7 @@
     <script src="Vendors/js/lg-fullscreen.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
+            document.addEventListener('contextmenu', event => event.preventDefault());
             $("#lightgallery").lightGallery({
                 share: true,
                 twitter: false,
